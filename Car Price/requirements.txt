@@ -1,0 +1,19 @@
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+charset-normalizer==3.2.0
+click==8.1.5
+colorama==0.4.6
+Flask==2.2.5
+idna==3.4
+importlib-metadata==6.7.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+jsonify==0.5
+MarkupSafe==2.1.3
+numpy==1.21.6
+requests==2.31.0
+sklearn==0.0.post5
+typing_extensions==4.7.1
+urllib3==2.0.3
+Werkzeug==2.2.3
+wincertstore==0.2
+zipp==3.15.0
